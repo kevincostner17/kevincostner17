@@ -39,35 +39,35 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kevincostner17&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=kevincostner17&&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kevincostner17&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevincostner17&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=kevincostner17&&theme=radical" alt="GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=kevincostner17&&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 # 🚀 Featured Projects
 
 <a href="https://github.com/kevincostner17/agentic-rag-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevincostner17&repo=agentic-rag-system&theme=radical" />
+  <img align="center" src="https://github-readme-stats.tuhidulhossain.com/api/pin?username=kevincostner17&repo=agentic-rag-system&theme=radical" />
 </a>
 <a href="https://github.com/kevincostner17/care-triage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevincostner17&repo=care-triage&theme=dark" />
+  <img align="center" src="https://github-readme-stats.tuhidulhossain.com/api/pin?username=kevincostner17&repo=care-triage&theme=dark" />
 </a>
 
 <a href="https://github.com/kevincostner17/g2c">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevincostner17&repo=g2c&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.tuhidulhossain.com/api/pin?username=kevincostner17&repo=g2c&theme=gruvbox" />
 </a>
 <a href="https://github.com/kevincostner17/hackathon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevincostner17&repo=hackathon&theme=merko" />
+  <img align="center" src="https://github-readme-stats.tuhidulhossain.com/api/pin?username=kevincostner17&repo=hackathon&theme=merko" />
 </a>
 
 <a href="https://github.com/kevincostner17/clinical-diagnostic-ann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevincostner17&repo=clinical-diagnostic-ann&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.tuhidulhossain.com/api/pin?username=kevincostner17&repo=clinical-diagnostic-ann&theme=highcontrast" />
 </a>
 <a href="https://github.com/kevincostner17/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevincostner17&repo=portfolio&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.tuhidulhossain.com/api/pin?username=kevincostner17&repo=portfolio&theme=cobalt" />
 </a>
 
 # 💻 Tech Stack:
