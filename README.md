@@ -2,14 +2,15 @@
 
 # Hi, I'm Kevin 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Healthcare+Risk+Analytics;RAG+%26+LLM+Pipelines;Full-Stack+Python+%26+TypeScript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=AI+%2F+ML+Engineer;Agentic+RAG+%26+LLM+Pipelines;Healthcare+ML+Systems;Full-Stack+Python+%26+TypeScript" alt="Typing SVG" /></a>
 
 <p align="center">
-  <b>Building ML systems, intelligent data pipelines, and production-ready full-stack applications.</b>
+  <b>Building ML systems, agentic RAG pipelines, and production-ready full-stack applications.</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/kevincostner17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/kevincostner17/agentic-rag-system"><img src="https://img.shields.io/badge/Agentic_RAG-CrewAI-38BDF8?style=for-the-badge&logo=python&logoColor=white" alt="Agentic RAG" /></a>
   <a href="https://care-triage-srhikwyuzdjah3ohfeajju.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" /></a>
   <a href="https://g2c-tau.vercel.app"><img src="https://img.shields.io/badge/TalentBoard-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="TalentBoard" /></a>
 </p>
@@ -20,9 +21,9 @@
 
 ## 📌 About Me
 
-- 🔭 I build **healthcare ML prototypes**, **RAG-powered systems**, and **full-stack web apps** that ship with clear documentation and CI/CD.
-- ⚡ **5+ merged PRs** to [`FreshData`](https://github.com/FreshCode-Org/freshdata) — contributed outlier detection fixes, TruthBench release blockers, and engine refactors.
-- 🛠️ Tech stack: **Python, PyTorch, FastAPI, Streamlit, TypeScript, Next.js, PostgreSQL, Pandas, Docker**.
+- 🔭 I build **agentic RAG systems**, **healthcare ML prototypes**, and **full-stack web apps** that ship with clear documentation and CI/CD.
+- ⚡ **Open-source contributor** to [`FreshData`](https://github.com/FreshCode-Org/freshdata) — outlier detection fixes, TruthBench release blockers, and engine refactors.
+- 🛠️ Tech stack: **Python, CrewAI, LangChain, ChromaDB, PyTorch, FastAPI, Streamlit, TypeScript, Next.js, PostgreSQL, Pandas, Docker**.
 - 🎯 Open to **AI/ML Engineering**, **Data Engineering**, and **Full-Stack** roles and freelance projects.
 
 ---
@@ -31,6 +32,19 @@
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/kevincostner17/agentic-rag-system">End-to-End Agentic RAG System</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/CrewAI-Agentic%20Tools-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/LangChain-ChromaDB-1C3C3C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Ollama-Llama%203.2-fff?style=flat-square" />
+      </p>
+      <ul>
+        <li>Agentic document-analysis system: PyPDF extraction, 800-char / 150-overlap chunking, MiniLM embeddings in ChromaDB.</li>
+        <li>Top-3 semantic retrieval exposed as a reusable CrewAI tool for autonomous search decisions.</li>
+        <li>Ollama Llama 3.2 agent grounds financial answers in retrieved report context.</li>
+      </ul>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">🏥 <a href="https://github.com/kevincostner17/care-triage">CareTriage</a></h3>
       <p align="center">
@@ -44,6 +58,8 @@
         <li>Gradient-based attributions, model card, and a deployed Streamlit demo.</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">💼 <a href="https://github.com/kevincostner17/g2c">TalentBoard</a></h3>
       <p align="center">
@@ -57,8 +73,6 @@
         <li>REST API (<code>GET/POST /api/jobs</code>) with GitHub Actions lint, typecheck, and deploy pipeline.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">💊 <a href="https://github.com/kevincostner17/hackathon">PharmaHub Pro</a></h3>
       <p align="center">
@@ -70,19 +84,6 @@
         <li>Intelligent pharmacy management MVP with FastAPI services, React POS, and OpenAPI on every API.</li>
         <li>RBAC, offline sync, invoicing (INR), barcode/ERP contracts, and AI anomaly scoring.</li>
         <li>Production-shaped Docker architecture with nginx gateway and full assessment documentation.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/kevincostner17/ai-ml-intern-assignment">RAG Persona System</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/RAG-Chronological%20Topics-FF4B4B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streamlit-Chatbot%20UI-FF4B4B?style=flat-square" />
-        <img src="https://img.shields.io/badge/TF--IDF-Topic%20Detection-blue?style=flat-square" />
-      </p>
-      <ul>
-        <li>End-to-end conversational RAG pipeline with chronological message processing and topic checkpoints.</li>
-        <li>Semantic drift detection via rolling TF-IDF similarity with guardrails for topic boundaries.</li>
-        <li>Reusable Python module plus Streamlit chatbot UI and notebook-first workflow.</li>
       </ul>
     </td>
   </tr>
@@ -101,9 +102,11 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### AI, ML & LLMs
+![CrewAI](https://img.shields.io/badge/CrewAI-Agentic%20RAG-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Data & Backend
@@ -140,6 +143,7 @@
 ## 📬 Let's Connect
 
 - **GitHub**: [github.com/kevincostner17](https://github.com/kevincostner17)
+- **Agentic RAG**: [agentic-rag-system](https://github.com/kevincostner17/agentic-rag-system)
 - **CareTriage Demo**: [care-triage Streamlit app](https://care-triage-srhikwyuzdjah3ohfeajju.streamlit.app/)
 - **TalentBoard**: [g2c-tau.vercel.app](https://g2c-tau.vercel.app)
 - **DSS Website**: [www.dsscctv.in](https://www.dsscctv.in)
