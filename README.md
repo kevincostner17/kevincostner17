@@ -25,17 +25,42 @@
 
 <div align="center">
 
-### 👨‍🎓 I'm a **B.Tech AI & ML graduate from Mallareddy University**
+### 👨‍🎓 I'm a **B.Tech AI & ML graduate from Mallareddy University** (CGPA 8.12)
 
 ### 🔭 I’m currently working on **[End-to-End Agentic RAG](https://github.com/kevincostner17/agentic-rag-system)**
 
-### 💬 Ask me about **AI/ML, RAG, and shipping full-stack demos**
+### 🌱 Learning **LLMs, Generative AI & production model deployment** @ Innomatics Research Labs
+
+### 💬 Ask me about **AI/ML, RAG, healthcare ML, and shipping full-stack demos**
 
 ### 📫 How to reach me **siravenikevin@gmail.com**
+
+### 🌍 Based in **Hyderabad, Telangana, India**
 
 ### ⚡ Fun fact **I turn notebooks into products people can click.**
 
 </div>
+
+---
+
+## 🪪 Profile Details
+
+| | |
+|:--|:--|
+| **Full name** | Siraveni Kevin Costner Lingaiah |
+| **Role** | AI/ML Engineer |
+| **Education** | B.Tech in Artificial Intelligence & Machine Learning — Mallareddy University (2021–2025) |
+| **Training** | Data Science & AI Program — Innomatics Research Labs |
+| **Location** | Hyderabad, Telangana, India |
+| **Email** | [siravenikevin@gmail.com](mailto:siravenikevin@gmail.com) |
+| **LinkedIn** | [kevin-costner-4a2173368](https://linkedin.com/in/kevin-costner-4a2173368) |
+| **Portfolio** | [kevin-costner-portfolio.vercel.app](https://kevin-costner-portfolio.vercel.app) |
+| **GitHub** | [kevincostner17](https://github.com/kevincostner17) |
+| **Focus** | Agentic RAG · Healthcare ML · Full-stack shipping |
+| **Open to** | AI/ML Engineering, Data Engineering, Full-Stack roles & freelance |
+
+<p align="center"><i>Hands-on with Cursor and Claude for AI-assisted development. Open-source contributor to FreshCode-Org’s freshdata-cleaner.</i></p>
+
 
 # 📊 GitHub Stats
 <div align="center">
