@@ -103,7 +103,7 @@
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=kevincostner17&&theme=radical" alt="GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=kevincostner17&&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs/?username=kevincostner17&layout=donut&theme=radical&hide=html,css,javascript&exclude_repo=dss-cctv-website,portfolio&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 </div>
 
 # 🚀 Featured Projects
