@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1000&color=0066FF&center=true&vCenter=true&random=false&width=1000&lines=Hi+👋,+I'm+Kevin+Costner;AI+%2F+ML+Engineer;Agentic+RAG+%26+LLM+Pipelines;Healthcare+ML+%7C+Full-Stack+Shipping;Based+in+Hyderabad,+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1000&color=0066FF&center=true&vCenter=true&random=false&width=1000&lines=Hi+👋,+I'm+Kevin+Costner;AI+%2F+ML+Engineer;Open+Source+%40+FreshData+%26+Headroom;Agentic+RAG+%26+LLM+Pipelines;Healthcare+ML+%7C+Full-Stack+Shipping;Based+in+Hyderabad,+India)](https://git.io/typing-svg)
 
 </div>
 
@@ -56,11 +56,45 @@
 | **LinkedIn** | [kevin-costner-4a2173368](https://linkedin.com/in/kevin-costner-4a2173368) |
 | **Portfolio** | [kevin-costner-portfolio.vercel.app](https://kevin-costner-portfolio.vercel.app) |
 | **GitHub** | [kevincostner17](https://github.com/kevincostner17) |
-| **Focus** | Agentic RAG · Healthcare ML · Full-stack shipping |
+| **Focus** | Agentic RAG · Healthcare ML · Open-source data & LLM infra |
 | **Open to** | AI/ML Engineering, Data Engineering, Full-Stack roles & freelance |
 
-<p align="center"><i>Hands-on with Cursor and Claude for AI-assisted development. Open-source contributor to FreshCode-Org’s freshdata-cleaner.</i></p>
+<p align="center"><i>Hands-on with Cursor and Claude for AI-assisted development. <strong>100+ merged PRs</strong> to <a href="https://github.com/FreshCode-Org/freshdata">FreshData</a> and contributor to <a href="https://github.com/headroomlabs-ai/headroom">Headroom</a>.</i></p>
 
+---
+
+## 🌐 Open Source Contributions
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧹 <a href="https://github.com/FreshCode-Org/freshdata">FreshData</a> · <a href="https://pypi.org/project/freshdata-cleaner/">PyPI</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/pandas-Explainable%20Cleaning-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/100%2B%20PRs%20Merged-22C55E?style=flat-square" />
+      </p>
+      <ul>
+        <li>Explainable data-cleaning library for pandas — one call cleans messy CSVs and returns an audit trail of every change.</li>
+        <li>Shipped fixes across outlier detection, imputation safety, DuckDB/Polars engines, streaming CLI, enterprise trust scoring, and security advisories.</li>
+        <li>Ran a full production-readiness QA campaign and drove the 2.1.0 security release.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗜️ <a href="https://github.com/headroomlabs-ai/headroom">Headroom</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-LLM%20Token%20Compression-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Proxy-OpenAI+%26+Gemini-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Merged%20PR-%231-22C55E?style=flat-square" />
+      </p>
+      <ul>
+        <li>Compresses tool outputs, logs, and RAG chunks before they reach the LLM — up to 95% fewer tokens for JSON, same answers.</li>
+        <li>Contributed merged tests for proxy <strong>budget-limit enforcement</strong> on OpenAI WebSocket, HTTP fallback, and Gemini Cloud Code streams.</li>
+        <li>Fixed <code>cost_tracker</code> typing and <code>budget_exceeded</code> teardown semantics — 692 related tests passing (<a href="https://github.com/JohnnyWilson16/headroom/pull/1">PR #1</a>).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 # 📊 GitHub Stats
 <div align="center">
