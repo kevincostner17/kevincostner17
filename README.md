@@ -97,13 +97,14 @@
 </table>
 
 # 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=kevincostner17&&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=kevincostner17&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=kevincostner17&&theme=radical" alt="GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs/?username=kevincostner17&layout=donut&theme=radical&hide=html,css,javascript&exclude_repo=dss-cctv-website,portfolio&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+  <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevincostner17&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+  <img height="195em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs/?username=kevincostner17&layout=donut&theme=radical&hide_border=true&hide=html,css,javascript&exclude_repo=dss-cctv-website,portfolio&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 </div>
 
 # 🚀 Featured Projects
